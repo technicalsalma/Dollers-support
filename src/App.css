@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +35,32 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.design{
+  height: 550px;
+  position: relative;
+}
+
+.address-bar{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 90px;
+}
+.address-img{
+  position: absolute;
+  margin-top: -50px;
+  border-radius: 100px;
+}
+.address-details{
+  margin-top: 120px;
+}
+
+.payment-card{
+  background-color: white;
+  box-shadow: 5px;
+}
+
+.addres-title{
+  color: #214529;
 }

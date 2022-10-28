@@ -1,0 +1,12 @@
+.location{
+    margin: 100px 0;
+}
+.card-location{
+    margin: 20px;
+    text-align: center;
+    /* color: hsl(120, 23%, 42%); */
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: 	rgb(229, 255, 255);
+}
